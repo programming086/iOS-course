@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Int'/>
+        <page name='String'/>
+        <page name='Substring'/>
+        <page name='Double'/>
+        <page name='Bool'/>
+        <page name='Convert'/>
+        <page name='typealias'/>
+        <page name='Hometask'/>
+    </pages>
+</playground>
