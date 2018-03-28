@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Base'/>
+        <page name='Optional Binding'/>
+        <page name='Optional Сhaining'/>
+        <page name='NilCoalescing'/>
+        <page name='Tuple'/>
+        <page name='Functions'/>
+        <page name='Convert'/>
+        <page name='Switch'/>
+        <page name='Inner'/>
+        <page name='BindingChaining'/>
+        <page name='Hometask'/>
+    </pages>
+</playground>
