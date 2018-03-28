@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Base'/>
+        <page name='Base2'/>
+        <page name='ClosureParam'/>
+        <page name='TrailingClosure'/>
+        <page name='Autoclosure'/>
+        <page name='CaptureVariables'/>
+        <page name='CaptureVariables2'/>
+        <page name='CaptureVariables3'/>
+        <page name='CapturedList '/>
+        <page name='Hometask'/>
+    </pages>
+</playground>
