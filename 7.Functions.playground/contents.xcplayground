@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Base'/>
+        <page name='DefaultParamValue'/>
+        <page name='InOut'/>
+        <page name='Label'/>
+        <page name='Tuples'/>
+        <page name='FuncAsVar'/>
+        <page name='FuncAsReturn'/>
+        <page name='FuncAsParam'/>
+        <page name='Optional'/>
+        <page name='NestedFunc'/>
+        <page name='Overload'/>
+        <page name='TypeAlias'/>
+        <page name='Hometask'/>
+        <page name='typealias (1)'/>
+    </pages>
+</playground>
