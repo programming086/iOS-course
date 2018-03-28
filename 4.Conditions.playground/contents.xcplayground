@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='If'/>
+        <page name='Label'/>
+        <page name='Switch'/>
+        <page name='where'/>
+        <page name='fallthrough'/>
+        <page name='SwitchRange'/>
+        <page name='Tuple'/>
+        <page name='Hometask'/>
+    </pages>
+</playground>
